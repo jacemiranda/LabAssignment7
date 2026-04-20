@@ -6,7 +6,8 @@ This project demonstrates the **Prototype Design Pattern** in Java. The pattern 
 
 The implementation is based on the provided class diagram which establishes a document hierarchy:
 
-[Document Prototype Design Pattern.pdf](https://github.com/user-attachments/files/26886658/Document.Prototype.Design.Pattern.pdf)
+<img width="1125" height="675" alt="Document Prototype Design Pattern" src="https://github.com/user-attachments/assets/523f41cf-03aa-4f0a-88c2-6b9ef5187b5b" />
+
 
 
 ### Core Structure:
